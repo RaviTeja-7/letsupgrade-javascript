@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <script>
+            function validate(age){
+            var ans="You can't drink";
+                if(age>21)
+                {
+                    ans="You can drink";
+                }
+                return ans
+            }
+        var age=parseInt(prompt("Enter age"));
+        var b=validate(age);
+        document.write("<b>"+b+"</b>");
+    </script>
+</body>
+    
+</html>
