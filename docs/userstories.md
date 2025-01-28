@@ -14,7 +14,7 @@ The following user stories describe the core functionalities we aim to implement
 3. **Add Items to Cart**  
    - *As a user, I want to add food items to my cart and modify quantities so that I can customize my order.*  
 
-4. **Place Orders
+4. **Place Orders**
    - *As a user, I want to place an order easily so that I can receive my food promptly.*  
 
 ---
